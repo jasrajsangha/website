@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jasraj Singh Sangha
 
 You can use the [editor on GitHub](https://github.com/jasrajsangha/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
